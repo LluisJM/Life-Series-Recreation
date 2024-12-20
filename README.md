@@ -70,6 +70,7 @@ Operators can also use commands to manage the data pack. This is a simple list o
 | `/trigger lsr.start_session` | Starts the session. This will send a message to all the players saying that the session has started and it will punish Boogeymen that did not kill a player last session. |
 | `/trigger lsr.choose_boogeyman` | Chooses the Boogeyman. Can be run multiple times for multiple Boogeymen.
 | `/execute as <PLAYER NAME> run function lsr:boogeyman/cure` | Cures `<PLAYER NAME>` if they are a Boogeyman. |
+| `/execute as <PLAYER NAME> run function lsr:util/add_life_to_player` | Adds a life to `<PLAYER NAME>` if they are not green. |
 
 ## Translation support
 
