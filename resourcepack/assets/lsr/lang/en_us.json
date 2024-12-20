@@ -45,5 +45,6 @@
     "lsr.menu.credits.translators.title": "Translators",
     "lsr.menu.credits.testers.title": "Testers",
     "lsr.menu.button.stop_game": "Stop Game",
-    "lsr.life.fail.max": "No lives can be added as you already have the maximum amount of them."
+    "lsr.life.add.fail.max": "No lives can be added as you already have the maximum amount of them.",
+    "lsr.life.add.success": "You have been given life."
 }
